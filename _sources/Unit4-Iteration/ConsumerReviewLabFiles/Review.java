@@ -205,3 +205,5 @@ public class Review {
     return stars; 
   }
 }
+public static double totalSentiment(String fileName)
+  
